@@ -105,10 +105,10 @@ Pull request dipersilakan. Untuk perubahan besar, buka issue terlebih dahulu unt
 
 ---
 
-## Identitas Pengembang
+## 👨‍💻 Developer
 
-- **Nama**: Ian  
-- **Nomor**: 16  
-- **Kelas**: XI RPL 2  
-- **Sekolah**: SMK Negeri 1 Bantul  
-- **Jurusan**: Rekayasa Perangkat Lunak (RPL)
+Dikembangkan oleh **Ian7672** - [GitHub Profile](https://github.com/Ian7672)
+
+---
+
+© 2025 todolist-flutter-dart-api_laravel-v1. All rights reserved.
