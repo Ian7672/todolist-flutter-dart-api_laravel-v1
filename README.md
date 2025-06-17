@@ -95,6 +95,10 @@ flutter run
 
 ---
 
+## Kontribusi
+
+Pull request dipersilakan. Untuk perubahan besar, buka issue terlebih dahulu untuk mendiskusikan apa yang ingin Anda ubah.
+
 ## Demo Aplikasi
 
 [Link Demo Aplikasi](https://github.com/user-attachments/assets/9659b1c1-5e24-4345-85f0-36b9377781da)
